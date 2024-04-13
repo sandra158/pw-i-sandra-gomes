@@ -1,0 +1,12 @@
+h1 { 
+    color: rgb(220, 20, 60);
+}
+
+.minhaimagem {
+    width: 40%;
+    border-radius: 50%;
+}
+
+#paragrafo {
+    font-size: 2rem;
+}
